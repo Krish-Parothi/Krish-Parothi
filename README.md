@@ -36,7 +36,7 @@ class KrishParothi:
     def __init__(self):
         self.name        = "Krish Parothi"
         self.role        = "ML/AI Engineer & Full-Stack Developer"
-        self.university  = "Ramdeobaba University (RKNEC), Nagpur"
+        self.university  = "Ramdeobaba University (RBU), Nagpur"
         self.year        = "B.Tech 3rd Year"
         self.focus       = ["Agentic AI", "LLM Pipelines", "Computer Vision", "RAG Systems"]
         self.stack       = ["Python", "FastAPI", "React", "LangGraph", "PyTorch"]

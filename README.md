@@ -132,7 +132,7 @@ me.say_hi()
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Krish-Parothi&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" />
+<img src="https://streak-stats.demolab.com?user=Krish-Parothi&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa" />
 
 <br/>
 

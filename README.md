@@ -26,7 +26,6 @@ class KrishParothi:
         self.year        = "B.Tech 3rd Year"
         self.focus       = ["Agentic AI", "LLM Pipelines", "Computer Vision", "RAG Systems"]
         self.stack       = ["Python", "FastAPI", "React", "LangGraph", "PyTorch"]
-        self.currently   = "🛰️ IR Satellite Image Colorization — ISRO Hackathon"
         self.superpower  = "Building end-to-end AI products at hackathon speed ⚡"
 
     def say_hi(self):
@@ -42,7 +41,6 @@ me.say_hi()
 
 | Project | Stack | Status |
 |--------|-------|--------|
-| 🛰️ IR Satellite Colorization | Real-ESRGAN · Pix2Pix · YOLOv8 · Landsat 8/9 | 🔨 Active |
 | 🤖 FinAgentX 2.0 | LangGraph · FinBERT · Groq · ChromaDB · FastAPI | ✅ Built |
 | ✈️ Agentic Travel Planner | LangGraph · MCP · Amadeus API · Groq | ✅ Built |
 | 📄 Multimodal RAG System | CLIP · LLaVA · Sentence Transformers · ChromaDB | ✅ Built |

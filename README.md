@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 💫 About Me:
-• Machine Learning and Generative AI developer<br>• B.Tech 2nd-year student at Ramdeobaba University, Nagpur<br>• Currently learning and building with Agentic AI systems<br>• Works on Computer Vision, LLM pipelines, and RAG-based applications<br>• Builds end-to-end products with Python, FastAPI, and modern web stacks
+• Machine Learning and Generative AI developer<br>• B.Tech 3rd-year student at Ramdeobaba University, Nagpur<br>• Currently learning and building with Agentic AI systems<br>• Works on Computer Vision, LLM pipelines, and RAG-based applications<br>• Builds end-to-end products with Python, FastAPI, and modern web stacks
 
 
 ## 🌐 Socials:

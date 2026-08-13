@@ -52,22 +52,6 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
-
-## 🚀 What I've Built
-
-<div align="center">
-
-| 🏷️ Project | 🛠️ Stack | 🔥 Status |
-|:-----------|:---------|:---------|
-| 🤖 **FinAgentX 2.0** | LangGraph · FinBERT · Groq · ChromaDB · FastAPI | ✅ Shipped |
-| ✈️ **Agentic Travel Planner** | LangGraph · MCP · Amadeus API · Groq | ✅ Shipped |
-| 📄 **Multimodal RAG System** | CLIP · LLaVA · Sentence Transformers · ChromaDB | ✅ Shipped |
-| 📱 **CellCureHub** | Next.js · GSAP · Three.js · Lenis · ImageKit | 🔨 Active |
-
-</div>
-
----
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 

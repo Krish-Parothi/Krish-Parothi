@@ -21,7 +21,6 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish-Parothi&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=2d1b69" width="100%"/>
 
 </div>
 
@@ -49,7 +48,6 @@ class KrishParothi:
 me = KrishParothi()
 me.say_hi()
 ```
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 

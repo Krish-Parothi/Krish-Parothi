@@ -21,9 +21,9 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,50:3b82f6,100:6366f1&height=3" width="100%"/>
 
-## 🧠 About Me
+## 🧠 Myself
 
 ```python
 class KrishParothi:
@@ -44,7 +44,7 @@ me = KrishParothi()
 me.say_hi()
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,50:3b82f6,100:6366f1&height=3" width="100%"/>
 
 ## 🛠️ Tech Arsenal
 
@@ -97,7 +97,7 @@ me.say_hi()
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,50:3b82f6,100:6366f1&height=3" width="100%"/>
 
 ---
 

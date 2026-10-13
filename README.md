@@ -4,10 +4,6 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=🤖+Agentic+AI+%26+LLM+Pipeline+Engineer;🧠+Multi-Agent+Systems+Architect;👁️+Computer+Vision+%7C+RAG+%7C+GenAI;🚀+Full-Stack+AI+Product+Builder;⚡+Hackathon+Beast+Mode+Always+ON)](https://git.io/typing-svg)
-
-<br/>
-
 <a href="https://www.linkedin.com/in/krish-parothi-4846a4326/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -20,7 +16,6 @@
 <img src="https://komarev.com/ghpvc/?username=Krish-Parothi&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 <br/><br/>
-
 
 </div>
 
@@ -103,25 +98,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Krish-Parothi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&border_radius=10" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Parothi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&border_radius=10" height="180"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Krish-Parothi&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa" />
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Krish-Parothi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -131,25 +107,5 @@ me.say_hi()
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Krish-Parothi/Krish-Parothi/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/Krish-Parothi/Krish-Parothi/blob/output/github-snake-dark.svg" />
 </picture>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish-Parothi&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c084fc&area=true&hide_border=true&area_color=1e1b4b&custom_title=Krish's%20Contribution%20Graph" width="98%"/>
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%20solve%20the%20problem.%20Then%20write%20the%20code.&author=John%20Johnson" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,30:8b5cf6,60:c084fc,100:7c3aed&height=120&section=footer&animation=fadeIn" />
 
 </div>
